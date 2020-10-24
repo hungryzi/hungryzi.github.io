@@ -1,12 +1,3 @@
-GIT
-  remote: https://github.com/riggraz/no-style-please.git
-  revision: e26a67c39f34d842011343f6f9c145211b4d650b
-  specs:
-    no-style-please (0.3.1)
-      jekyll (~> 3.8.7)
-      jekyll-feed (~> 0.13.0)
-      jekyll-seo-tag (~> 2.6.1)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -260,7 +251,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed
-  no-style-please!
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
