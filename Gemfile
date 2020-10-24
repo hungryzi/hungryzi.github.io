@@ -27,4 +27,4 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # Theme
-# gem "no-style-please", github: "riggraz/no-style-please"
+gem "no-style-please", github: "riggraz/no-style-please"
