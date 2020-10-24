@@ -1,6 +1,6 @@
 body {
   color: #272727;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Inconsolata', monospace;
   font-size: 1.2rem;
   line-height: 2rem;
 }
@@ -9,13 +9,19 @@ body {
   max-width: 820px;
 }
 
+h1, h2, h3, h4, h5, h6, hr {
+  font-family: 'Merriweather', serif;
+  font-style: italic;
+  font-weight: 400;
+}
+
 h1 {
   margin-bottom: 2em;
 }
 
-h1, h2, h3, h4, h5, h6, hr {
-  font-family: 'Inconsolata', monospace;
-  line-height: 2.5rem;
+hr {
+  &:before { content: '*****'; }
+  &:after { content: none; }
 }
 
 blockquote {
