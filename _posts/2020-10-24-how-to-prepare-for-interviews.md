@@ -9,9 +9,12 @@ This is how I prepared in my recent job search. After a decade in start-ups, thi
 These steps are meant to be done **in parallel**. At the end of this post, I include a list of TODO items gathered from all the steps.
 
 1. ### Brush up your ability to solve programming problems
-	Most companies ask you to solve some programming problems. I found myself very rusty with them when I started. Revising data structures’ construct and their usages was really helpful for me. To do this quickly, I highly recommend [AlgoExpert’s membership](https://www.algoexpert.io/). Their videos are to the point and contain the most basic stuff you should know. Their list of 100 problems was certainly less intimidating than the boundless number of problems on LeetCode.
+	Most companies ask you to solve some programming problems. I found myself very rusty with them when I started, and the first few attempts on LeetCode were catastrophic. I was worried it would take months to get "good enough", and honestly would have delayed interviewing a lot longer if not for some accidental circumstances.
 
-	[LeetCode’s top interview questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/) were also helpful. I wasn’t asked any “hard” level problems, mostly just around the “medium” level.
+	Turns out it wasn't necessary to know how to solve all those hard level questions. Turns out just a few weeks of revising data structures and getting familiarized with the most common questions and picking up some patterns were enough in my case.
+
+	To do this quickly, I highly recommend [AlgoExpert’s membership](https://www.algoexpert.io/). Their videos are more practical and less academic and contain the most basic stuff you should know. Their list of 100 problems was certainly less intimidating than the boundless number of problems on LeetCode.
+	[LeetCode’s top interview questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/) were also helpful. I wasn't asked any hard level questions, mostly just at the medium level.
 
 1. ### Brush up on your ability to answer system design questions
 	Again, I’d highly recommend AlgoExpert’s videos to understand the common system components and paradigms that you could use in this kind of questions. Practice by drawing out some systems you have built in the past on [Jamboard](https://jamboard.google.com/) or [Miro](https://miro.com/). Most companies have a “walk us through a system you have built in the past” interview, so this exercise helps you prepare for that as well.
@@ -42,7 +45,7 @@ These steps are meant to be done **in parallel**. At the end of this post, I inc
 	Line up a few interviews at the same time so you can study for them at once. Put your favorite company at the end so you have time to practice with other companies first (trust me, the 10th interview feels a lot more relaxing than the 1st). If you get multiple offers at the same time, you also have a better chance at negotiating.
 
 	Read up about offer negotiation early, as there are many things you should and shouldn’t do even at **the early stage**. I’ll name a few right now:
-	- Don’t say a number for your expected compensation. Just say you don’t know, you want to finish the interviews first, or any reasonable reasons.
+	- Don’t say a number for your expected compensation. Accepted answers include: you expect them to have a compensation range for this position and would like to hear from them first; you value the opportunity and will look at offers holistically (wrt to growth, team, culture,...) and won't decline outright on compensation (so they know it's not a risk); etc. It's expected that you don't give a number. Some recruiters will try to push, and then it depends on how you read the situation. If you give a number, make it a little higher than your maximum number, and be ready to take it when they offer it.
 	- Tell them you’re interviewing at a few places to set expectations about the timeline.
 
 	Here are a few “classic” blog posts on negotiating salary for software engineers that I found helpful:
